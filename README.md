@@ -1,3 +1,5 @@
+ # Insurance policy
+
 Este innovador Sistema de Gestión de Pólizas de Seguro creada con JAVA es una aplicación de escritorio diseñada para brindar un manejo completo y eficiente de las pólizas de seguro y las actas de defunciones. Con una interfaz intuitiva y fácil de usar, esta aplicación ofrece una serie de características clave:
 
 1. Gestión de Actas de Defunciones:
@@ -24,6 +26,5 @@ Facilita la inclusión de ventas relacionadas con las pólizas, lo que permite u
 Brinda una visión completa de los grupos familiares asociados a cada usuario, lo que facilita la gestión de beneficiarios y conexiones familiares.
 Esta aplicación proporciona una solución integral para profesionales y empresas del sector de seguros, mejorando la eficiencia en la gestión de pólizas y actas de defunciones. Su diseño amigable y sus potentes características hacen que sea una herramienta esencial para la industria. ¡Descárgala y descubre cómo puede simplificar y optimizar tu trabajo en el sector de seguros!
 
-Nota: Asegúrate de consultar la documentación proporcionada en GitHub para obtener información detallada sobre cómo usar y configurar la aplicación.
 
 
