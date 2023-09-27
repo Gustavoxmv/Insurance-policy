@@ -2,20 +2,29 @@
 
 Este innovador Sistema de Gestión de Pólizas de Seguro creada con JAVA es una aplicación de escritorio diseñada para brindar un manejo completo y eficiente de las pólizas de seguro y las actas de defunciones. Con una interfaz intuitiva y fácil de usar, esta aplicación ofrece una serie de características clave:
 
+![Actas Defuncion](https://github.com/Gustavoxmv/Insurance-policy/blob/main/Presentacion/Screenshot_4.png)
+
+
 1. Gestión de Actas de Defunciones:
 
 Permite la rápida y sencilla incorporación de actas de defunciones, con información detallada y documentación relevante.
 Funciones para editar y eliminar actas existentes, asegurando una administración precisa.
+
+![Actas Defuncion](https://github.com/Gustavoxmv/Insurance-policy/blob/main/Presentacion/Screenshot_1.png)
 
 2. Administración de Clientes:
 
 Facilita la adición y gestión de clientes asociados a cada póliza de seguro.
 Proporciona una vista completa de los clientes registrados, con opciones de edición y eliminación cuando sea necesario.
 
+![Actas Defuncion](https://github.com/Gustavoxmv/Insurance-policy/blob/main/Presentacion/Screenshot_2.png)
+
 3. Gestión de Pólizas de Seguro:
 
 Permite una visión detallada de las pólizas registradas para cada usuario, con la capacidad de realizar modificaciones y agregar ventas asociadas.
 Posibilidad de incorporar familiares a las pólizas para un seguimiento completo.
+
+![Actas Defuncion](https://github.com/Gustavoxmv/Insurance-policy/blob/main/Presentacion/Screenshot_5.png)
 
 4. Registro y Seguimiento de Ventas:
 
